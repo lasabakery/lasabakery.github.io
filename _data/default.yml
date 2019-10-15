@@ -5,7 +5,7 @@ menu-string: Menu
 nav:
   - title: Services
     url: '#services'
-  - title: Portfolio
+  - title: Bánh
     url: '#portfolio'
   - title: About
     url: '#about'
@@ -18,7 +18,7 @@ copyright: Copyright &copy; Your Website 2018
 
 social-buttons:
   - icon: fa fa-twitter
-    url: '#' 
+    url: '#'
   - icon: fa fa-facebook
     url: '#'
   - icon: fa fa-linkedin
