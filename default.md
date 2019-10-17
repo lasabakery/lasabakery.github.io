@@ -1,8 +1,5 @@
 ---
 layout: default
-title: "Posts by Category"
-permalink: /default/
-author_profile: true
 ---
 
 This post should display a **header with a responsive video**, if the theme supports it.
