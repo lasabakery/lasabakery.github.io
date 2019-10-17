@@ -95,9 +95,9 @@ about:
 #  - img: img/logos/creative-market.jpg   
 #    url: "#"
 
-# contact:
-#   heading: Contact Us
-#   subheading: Lorem ipsum dolor sit amet consectetur.
+ contact:
+    heading: Liên hệ tiệm bánh Lasa
+   subheading: Xin để lại tin nhắn, chúng tôi sẽ gọi lại nhanh nhất có thể.
 #   name: Your Name *
 #   name-required: Please enter your name.
 #   email: Your Email *
