@@ -5,7 +5,7 @@ menu-string: Menu
 nav:
   - title: Dịch vụ
     url: '#services'
-  - title: Bánh
+  - title: Sản phẩm
     url: '#portfolio'
   - title: Chúng tôi
     url: '#about'
