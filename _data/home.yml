@@ -12,7 +12,7 @@ services:
       text: Nhận đặt bánh sinh nhật, bánh ngọt trước một ngày.
     - icon: fa fa-podcast
       heading: Đặt sỉ
-      text: Quán hay dịch vụ của bạn có nhu cầu mở rộng menu, bán kèm thức uống hay tặng cho khách hàng. Chúng tôi có đa dạng các loại bánh.
+      text: Quán hay dịch vụ của bạn có nhu cầu mở rộng menu hay tặng cho khách hàng. Chúng tôi có đa dạng các loại bánh.
     - icon: fa fa-handshake-o
       heading: Liên kết
       text: Nếu bạn muốn bán bánh của Lasa. Chúng tôi có chiết khấu hấp dẫn.
