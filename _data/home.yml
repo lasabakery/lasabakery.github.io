@@ -1,28 +1,28 @@
 intro:
-  lead-in: "Welcome To Our Studio!"
-  heading: It's Nice To Meet You
-  btn: Tell Me More
+  lead-in: "Chào mừng đến tiệm bánh Lasa!"
+  heading: Yên tâm ăn bánh ngon và tươi
+  btn: Tìm hiểu thêm
 
 services:
-  heading: Services
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Dịch vụ
+  subheading: Chúng tôi bán và giao sỉ bánh ngọt.
   service:
     - icon: fa fa-shopping-cart
-      heading: E-Commerce
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      heading: Mua bánh lẻ
+      text: Nhận đặt bánh sinh nhật, bánh ngọt trước một ngày.
     - icon: fa fa-laptop
-      heading: Responsive Design
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      heading: Đặt sỉ
+      text: Quán hay dịch vụ của bạn có nhu cầu mở rộng menu, bán kèm thức uống hay tặng cho khách hàng. Chúng tôi có đa dạng các loại bánh.
     - icon: fa fa-lock
-      heading: Web Security
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      heading: Liên kết
+      text: Nếu bạn muốn bán bánh của Lasa. Chúng tôi có chiết khấu hấp dẫn.
 
 portfolio:
-  heading: Portfolio
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Các loại bánh
+  subheading: Bánh của Lasa không những ngon mà còn tươi. 
 
 about:
-  heading: About
+  heading: Chúng tôi
   subheading: Lorem ipsum dolor sit amet consectetur.
   timeline:
     - image: img/about/1.jpg
@@ -46,69 +46,69 @@ about:
   end2: Of Our
   end3: Story!
 
-team:
-  heading: Our Amazing Team
-  subheading: Lorem ipsum dolor sit amet consectetur.
-  members:
-    - name: Kay Garland
-      role: Lead Designer
-      img: img/team/1.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#" 
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
+#team:
+#  heading: Our Amazing Team
+#  subheading: Lorem ipsum dolor sit amet consectetur.
+ # members:
+  #  - name: Kay Garland
+   #   role: Lead Designer
+    #  img: img/team/1.jpg
+    #  social-buttons:
+    #    - icon: fa fa-twitter
+    #      url: "#" 
+    #    - icon: fa fa-facebook
+    #      url: "#"
+    #    - icon: fa fa-linkedin
+    #      url: "#"
         
-    - name: Larry Parker
-      role: Lead Marketer
-      img: img/team/2.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
+    # - name: Larry Parker
+      # role: Lead Marketer
+      # img: img/team/2.jpg
+      # social-buttons:
+      #   - icon: fa fa-twitter
+      #     url: "#"
+      #   - icon: fa fa-facebook
+      #     url: "#"
+      #   - icon: fa fa-linkedin
+      #     url: "#"
 
-    - name: Diana Pertersen
-      role: Lead Developer
-      img: img/team/3.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
+    # - name: Diana Pertersen
+    #   role: Lead Developer
+    #   img: img/team/3.jpg
+    #   social-buttons:
+    #     - icon: fa fa-twitter
+    #       url: "#"
+    #     - icon: fa fa-facebook
+    #       url: "#"
+    #     - icon: fa fa-linkedin
+    #       url: "#"
 
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
 
-clients:
-  - img: img/logos/envato.jpg
-    url: "#"
-  - img: img/logos/designmodo.jpg
-    url: "#"
-  - img: img/logos/themeforest.jpg
-    url: "#"
-  - img: img/logos/creative-market.jpg   
-    url: "#"
+# clients:
+#  - img: img/logos/envato.jpg
+#    url: "#"
+#  - img: img/logos/designmodo.jpg
+#    url: "#"
+#  - img: img/logos/themeforest.jpg
+#    url: "#"
+#  - img: img/logos/creative-market.jpg   
+#    url: "#"
 
-contact:
-  heading: Contact Us
-  subheading: Lorem ipsum dolor sit amet consectetur.
-  name: Your Name *
-  name-required: Please enter your name.
-  email: Your Email *
-  email-required: Please enter your email address.
-  phone: Your Phone *
-  phone-required: Please enter your phone number.
-  message: Your Message *
-  message-required: Please enter a message.
-  btn: Send Message
+# contact:
+#   heading: Contact Us
+#   subheading: Lorem ipsum dolor sit amet consectetur.
+#   name: Your Name *
+#   name-required: Please enter your name.
+#   email: Your Email *
+#   email-required: Please enter your email address.
+#   phone: Your Phone *
+#   phone-required: Please enter your phone number.
+#   message: Your Message *
+#   message-required: Please enter a message.
+#   btn: Send Message
 
-  js-url: '././mail/contact_me.php'
-  js-success: 'Your message has been sent. '
-  js-error: 'Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!'
-  js-error-min: 'Sorry "+i+", it seems that my mail server is not responding. Please try again later!'
+#   js-url: '././mail/contact_me.php'
+#   js-success: 'Your message has been sent. '
+#   js-error: 'Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!'
+#   js-error-min: 'Sorry "+i+", it seems that my mail server is not responding. Please try again later!'
