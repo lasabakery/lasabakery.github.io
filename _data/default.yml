@@ -32,7 +32,7 @@ quicklinks:
 
 modal:
  # date-string: 'Date: '
-  client-string: 'Bánh: '
-  category-string: 'Mô tả: '
+  client-string: 'client: '
+  category-string: 'category: '
   close-icon: 'fa fa-times'
   close-string: 'Đóng'
