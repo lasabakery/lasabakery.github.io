@@ -31,8 +31,8 @@ quicklinks:
 #    url: '#'
 
 modal:
-  date-string: 'Date: '
-  client-string: 'Client: '
-  category-string: 'Category: '
+ # date-string: 'Date: '
+  client-string: 'Bánh: '
+  category-string: 'Mô tả: '
   close-icon: 'fa fa-times'
   close-string: 'Đóng'
