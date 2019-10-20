@@ -5,14 +5,14 @@ intro:
 
 services:
   heading: Dịch vụ
-  subheading: Chúng tôi bán và giao sỉ bánh ngọt.
+  subheading: Chúng tôi bán sỉ và lẻ bánh ngọt.
   service:
     - icon: fa fa-shopping-cart
       heading: Mua bánh lẻ
       text: Nhận đặt bánh sinh nhật, bánh ngọt trước một ngày.
     - icon: fa fa-podcast
-      heading: Đặt sỉ
-      text: Quán hay dịch vụ của bạn có nhu cầu mở rộng menu hay tặng cho khách hàng. Chúng tôi có đa dạng các loại bánh.
+      heading: Đặt bánh sỉ
+      text: Bạn có nhu cầu mở rộng menu hay tặng cho khách hàng. Chúng tôi có đa dạng các loại bánh.
     - icon: fa fa-handshake-o
       heading: Liên kết
       text: Nếu bạn muốn bán bánh của Lasa. Chúng tôi có chiết khấu hấp dẫn.
@@ -22,29 +22,29 @@ portfolio:
   subheading: Bánh của Lasa không những ngon mà còn tươi. 
 
 about:
-  heading: Chúng tôi
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Đặt Hàng
+  subheading: Xin xem hướng dẫn đặt hàng bên dưới.
   timeline:
-    - image: img/about/1.jpg
-      date: 2009-2011
-      title: Our Humble Beginnings
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    #- image: img/about/1.jpg
+    #   #date: 2009-2011
+    #   title: Thời gian và số lượng
+    #   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
     - image: img/about/2.jpg
-      date: March 2011
-      title: An Agency is Born
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    #  date: March 2011
+      title: Thời gian và số lượng
+      text: Do bánh nhà làm nên quý khách vui lòng thương lượng trước thời gian và số lượng ạ
     - image: img/about/3.jpg
-      date: December 2012
-      title: Transition to Full Service
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-    - image: img/about/4.jpg
-      date: July 2014
-      title: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    #  date: December 2012
+      title: Liên hệ Trang
+      text: Số điện thoại: 0905773574
+    # - image: img/about/4.jpg
+    #   date: July 2014
+    #   title: Phase Two Expansion
+    #   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
 
-  end1: Be Part
-  end2: Of Our
-  end3: Story!
+  end1: Chúc
+  end2: Bạn
+  end3: Ngon Miệng!
 
 #team:
 #  heading: Our Amazing Team
