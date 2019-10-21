@@ -30,11 +30,11 @@ about:
     #   title: Thời gian và số lượng
     #   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
     - image: img/about/2.jpg
-    #  date: March 2011
+      date: March 2011
       title: Thời gian và số lượng
       text: Do bánh nhà làm nên quý khách vui lòng thương lượng trước thời gian và số lượng ạ
     - image: img/about/3.jpg
-    #  date: December 2012
+      date: December 2012
       title: Liên hệ Trang
       text: Số điện thoại: 0905773574
     # - image: img/about/4.jpg
