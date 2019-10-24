@@ -1,15 +1,15 @@
 intro:
   lead-in: "Chào mừng đến tiệm bánh Lasa!"
   heading: Tự hào bánh tươi ngon
-  btn: Tìm hiểu thêm
+  btn: Xem tiếp
 
 services:
   heading: Dịch vụ
   subheading: Chúng tôi bán sỉ và lẻ bánh ngọt.
   service:
     - icon: fa fa-shopping-cart
-      heading: Mua bánh lẻ
-      text: Nhận đặt bánh sinh nhật, bánh ngọt trước một ngày.
+      heading: Đặt bánh lẻ
+      text: Nhận đặt bánh sinh nhật, bánh bông lan, và các loại bánh ngọt trước một ngày.
     - icon: fa fa-podcast
       heading: Đặt bánh sỉ
       text: Bạn có nhu cầu mở rộng menu hay tặng cho khách hàng. Chúng tôi có đa dạng các loại bánh.
@@ -19,7 +19,7 @@ services:
 
 portfolio:
   heading: Các loại bánh
-  subheading: Bánh của Lasa không những ngon mà còn tươi. 
+  subheading: Bánh được làm từ các nguyên liệu chất lượng cao, theo công thức nước ngoài nên bánh sẽ mềm, mịn thơm hơn và ít ngọt
 
 about:
   heading: Đặt Hàng
